@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avishkar1414
-- 👀 I’m interested in ... Java development, New trends in IT, AI.
-- 🌱 I’m currently learning ...Java spring, java hibernate
+- 👀 I’m interested in ... Mern stack development, New trends in IT, AI.
+- 🌱 I’m currently learning ...React,js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...avishkarshinde58@gmail.com
 - 😄 Pronouns: ...
